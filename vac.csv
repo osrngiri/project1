@@ -1,0 +1,192 @@
+District,Case,Number
+Bagalkote,confirmed,35174
+Bagalkote,deceased,332
+Bagalkote,recovered,34833
+Bagalkote,tested,49851
+Bagalkote,vaccinated1,1034937
+Bagalkote,vaccinated2,368661
+Ballari,confirmed,97686
+Ballari,deceased,1689
+Ballari,recovered,95873
+Ballari,tested,402407
+Ballari,vaccinated1,1550885
+Ballari,vaccinated2,608510
+Belagavi,confirmed,79746
+Belagavi,deceased,930
+Belagavi,recovered,78631
+Belagavi,tested,396565
+Belagavi,vaccinated1,2930810
+Belagavi,vaccinated2,921240
+Bengaluru Rural,confirmed,61837
+Bengaluru Rural,deceased,884
+Bengaluru Rural,recovered,60784
+Bengaluru Rural,tested,240277
+Bengaluru Rural,vaccinated1,637111
+Bengaluru Rural,vaccinated2,282994
+Bengaluru Urban,confirmed,1246139
+Bengaluru Urban,deceased,16150
+Bengaluru Urban,other,1
+Bengaluru Urban,recovered,1222479
+Bengaluru Urban,tested,6883888
+Bengaluru Urban,vaccinated1,8892902
+Bengaluru Urban,vaccinated2,4774788
+Bidar,confirmed,24323
+Bidar,deceased,398
+Bidar,other,4
+Bidar,recovered,23914
+Bidar,tested,67689
+Bidar,vaccinated1,859811
+Bidar,vaccinated2,374527
+Chamarajanagara,confirmed,32929
+Chamarajanagara,deceased,499
+Chamarajanagara,other,11
+Chamarajanagara,recovered,32353
+Chamarajanagara,tested,5156
+Chamarajanagara,vaccinated1,631444
+Chamarajanagara,vaccinated2,230812
+Chikkaballapura,confirmed,43906
+Chikkaballapura,deceased,425
+Chikkaballapura,other,1
+Chikkaballapura,recovered,43451
+Chikkaballapura,tested,15089
+Chikkaballapura,vaccinated1,799378
+Chikkaballapura,vaccinated2,387288
+Chikkamagaluru,confirmed,50788
+Chikkamagaluru,deceased,395
+Chikkamagaluru,recovered,49992
+Chikkamagaluru,tested,5467
+Chikkamagaluru,vaccinated1,698140
+Chikkamagaluru,vaccinated2,289944
+Chitradurga,confirmed,36569
+Chitradurga,deceased,204
+Chitradurga,recovered,36235
+Chitradurga,tested,4393
+Chitradurga,vaccinated1,876136
+Chitradurga,vaccinated2,474872
+Dakshina Kannada,confirmed,114208
+Dakshina Kannada,deceased,1650
+Dakshina Kannada,other,7
+Dakshina Kannada,recovered,111599
+Dakshina Kannada,tested,131281
+Dakshina Kannada,vaccinated1,1496180
+Dakshina Kannada,vaccinated2,663635
+Davanagere,confirmed,50930
+Davanagere,deceased,603
+Davanagere,recovered,50263
+Davanagere,tested,17483
+Davanagere,vaccinated1,921407
+Davanagere,vaccinated2,351341
+Dharwad,confirmed,60886
+Dharwad,deceased,1305
+Dharwad,other,2
+Dharwad,recovered,59543
+Dharwad,tested,137696
+Dharwad,vaccinated1,1123732
+Dharwad,vaccinated2,406907
+Gadag,confirmed,26061
+Gadag,deceased,317
+Gadag,recovered,25735
+Gadag,tested,8904
+Gadag,vaccinated1,591909
+Gadag,vaccinated2,256345
+Hassan,confirmed,110909
+Hassan,deceased,1246
+Hassan,other,2
+Hassan,recovered,109370
+Hassan,tested,10800
+Hassan,vaccinated1,1166909
+Hassan,vaccinated2,446595
+Haveri,confirmed,21933
+Haveri,deceased,641
+Haveri,recovered,21284
+Haveri,tested,11714
+Haveri,vaccinated1,945093
+Haveri,vaccinated2,243389
+Kalaburagi,confirmed,61899
+Kalaburagi,deceased,819
+Kalaburagi,recovered,61055
+Kalaburagi,tested,409596
+Kalaburagi,vaccinated1,1161681
+Kalaburagi,vaccinated2,442412
+Kodagu,confirmed,36607
+Kodagu,deceased,325
+Kodagu,other,1
+Kodagu,recovered,35972
+Kodagu,tested,143982
+Kodagu,vaccinated1,375407
+Kodagu,vaccinated2,171779
+Kolar,confirmed,46750
+Kolar,deceased,633
+Kolar,recovered,45991
+Kolar,tested,91924
+Kolar,vaccinated1,906404
+Kolar,vaccinated2,465226
+Koppal,confirmed,35183
+Koppal,deceased,521
+Koppal,recovered,34639
+Koppal,tested,8708
+Koppal,vaccinated1,737107
+Koppal,vaccinated2,292896
+Mandya,confirmed,73461
+Mandya,deceased,649
+Mandya,recovered,72660
+Mandya,tested,14874
+Mandya,vaccinated1,1141383
+Mandya,vaccinated2,510952
+Mysuru,confirmed,177905
+Mysuru,deceased,2387
+Mysuru,recovered,174892
+Mysuru,tested,107338
+Mysuru,vaccinated1,1942020
+Mysuru,vaccinated2,879943
+Other State,confirmed,36
+Other State,deceased,3
+Other State,recovered,33
+Raichur,confirmed,39957
+Raichur,deceased,330
+Raichur,recovered,39623
+Raichur,tested,21011
+Raichur,vaccinated1,879188
+Raichur,vaccinated2,315396
+Ramanagara,confirmed,24151
+Ramanagara,deceased,315
+Ramanagara,recovered,23802
+Ramanagara,tested,103399
+Ramanagara,vaccinated1,716287
+Ramanagara,vaccinated2,359283
+Shivamogga,confirmed,69151
+Shivamogga,deceased,1084
+Shivamogga,recovered,67801
+Shivamogga,tested,48760
+Shivamogga,vaccinated1,1041486
+Shivamogga,vaccinated2,418235
+Tumakuru,confirmed,120162
+Tumakuru,deceased,1109
+Tumakuru,recovered,118724
+Tumakuru,tested,106564
+Tumakuru,vaccinated1,1518165
+Tumakuru,vaccinated2,607259
+Udupi,confirmed,76231
+Udupi,deceased,482
+Udupi,recovered,75304
+Udupi,tested,86092
+Udupi,vaccinated1,905027
+Udupi,vaccinated2,427910
+Uttara Kannada,confirmed,55777
+Uttara Kannada,deceased,753
+Uttara Kannada,recovered,54796
+Uttara Kannada,tested,13833
+Uttara Kannada,vaccinated1,947861
+Uttara Kannada,vaccinated2,394871
+Vijayapura,confirmed,36236
+Vijayapura,deceased,495
+Vijayapura,recovered,35733
+Vijayapura,tested,25108
+Vijayapura,vaccinated1,1199705
+Vijayapura,vaccinated2,408533
+Yadgir,confirmed,27537
+Yadgir,deceased,207
+Yadgir,recovered,27329
+Yadgir,tested,221485
+Yadgir,vaccinated1,546211
+Yadgir,vaccinated2,260528
